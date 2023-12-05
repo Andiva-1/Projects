@@ -8,8 +8,8 @@ python,\
 pandas,\
 bs4,\
 BeautifulSoup,\
-re,
-datetime,
+re,\
+datetime,\
 lxml,\
 Power BI
 ## Общий вывод
