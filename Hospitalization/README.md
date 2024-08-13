@@ -21,7 +21,7 @@ phik,\
 seaborn,\
 matplotlib,\
 scipy.stats,\
-fuzzywuzzy,\ 
+fuzzywuzzy,\
 collections,\
 plotly.
 
